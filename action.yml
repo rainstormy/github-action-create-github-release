@@ -1,4 +1,4 @@
-name: Create GitHub release
+name: Release / Create GitHub release
 description: Creates a draft GitHub release from a release tag.
 author: Steffen Diswal
 
